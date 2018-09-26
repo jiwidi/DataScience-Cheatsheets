@@ -3,7 +3,7 @@ Collection of cheatsheets for my daily workload as a Data Scientist/Machine lear
 
 Cheats for the following libraries are provided:
 * R
-  * Dplyr and tidyr
+  * Dplyr & tidyr
 * Python
   * Tensorflow
   * Sklearn
@@ -15,4 +15,4 @@ Cheats for the following libraries are provided:
   * Ggplot2
   * Keras
 
-A Deep learning Basic Concepts cheatsheet is also provided.
+A Deep learning Basic Concepts and Latex cheatsheets are also provided.
